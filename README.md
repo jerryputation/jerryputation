@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jerry Banasing Jr.</h1>
+<h3 align="center">I am an independent freelancer from the Philippines.</h3>
 
-<!--
-**jerryputation/jerryputation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://visme.co/blog/wp-content/uploads/2020/02/header-1200.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerryputation&label=Profile%20views&color=0e75b6&style=flat" alt="jerryputation" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **jerrybanasing.jr@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jerrybanasing.jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jerrybanasing.jr" height="30" width="40" /></a> jerrybanasing.jr
+</p>
+
+
+
+
+
+
